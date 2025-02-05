@@ -1,4 +1,37 @@
 export const m = {
+    "actionYes": "はい",
+    "actionNo": "いいえ",
+    "actionDoNotAskAgain": "再度表示しない",
+    "actionOK": "OK",
+    "actionOpenSetting": "設定を開く",
+    "noKeyInCurrentFolder": "現在のフォルダーにはキーがありません。",
+    "passphraseInputPromptTitle": "署名キーのパスフレーズを入力してください",
+    "keyDescriptionWithUserId": "{0} に関連付けられたキー",
+    "passphraseStored": "パスフレーズは VSCode の SecretStorage に保存されました。",
+    "keyUnlocked": "キーが解除されました。",
+    "keyUnlockFailedWithId": "キーの解除に失敗しました: {0}",
+    "noCachedPassphraseForCurrentKey": "現在のキーにはキャッシュされたパスフレーズがありません。",
+    "cachedPassphraseListForDeletion": "保存されているパスフレーズのキー一覧。削除するキーを選択してください。",
+    "cachedPassphraseListForDeletionPlaceHolder": "この検索ボックスでフィンガープリントやユーザーIDを検索できます。",
+    "passphraseDeleted": "キャッシュされたパスフレーズが削除されました。",
+    "noCachedPassphrase": "キャッシュされたパスフレーズはありません。",
+    "currentKey": "現在のキー",
+    "restKey": "その他のキー",
+    "cachedPassphraseList": "保存されているパスフレーズのキー一覧:",
+    "passphraseCleared": "すべてのキャッシュされたパスフレーズが削除されました。",
+    "keyAutomaticallyUnlocked": "以前保存されたパスフレーズを使用してキーが自動的に解除されました。",
+    "keyAutomaticallyUnlockFailed": "以前保存されたパスフレーズでは現在のキーを解除できませんでした。",
+    "keyChanged": "キーが変更されました。",
+    "keyRelocked": "キーが再ロックされました。",
+    "noActiveFolder": "アクティブなフォルダーがありません",
+    "noKeyForCurrentFolder": "現在のフォルダーにはキーがありません",
+    "enableSecurelyPassphraseCacheNotice": "GPG Indicator に新しいパスフレーズキャッシュ機能が追加されました。有効にしますか？",
+    "enableSecurelyPassphraseCacheNoticeForbidden": "OK、後で設定で変更できます。",
+    "enableSecurelyPassphraseCacheNoticeAgreed": "OK、この機能を有効にしました。設定で変更できます。"
+};
+
+
+/*export const m = {
     "actionYes": "Yes",
     "actionNo": "No",
     "actionDoNotAskAgain": "Don't ask again",
@@ -28,4 +61,4 @@ export const m = {
     "enableSecurelyPassphraseCacheNotice": "GPG Indicator come with new passphrase cache feature, would you like to enable this feature?",
     "enableSecurelyPassphraseCacheNoticeForbidden": "OK, you can configure it later in setting.",
     "enableSecurelyPassphraseCacheNoticeAgreed": "OK, this feature has been enabled, you can configure it later in setting."
-};
+};*/
